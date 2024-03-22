@@ -1,0 +1,10 @@
+version=0.1
+title=Rick's MLC Sit & Rest
+description= Sit AND Rest?  What will they think of next?
+description= 
+description= Adds a menu option to "Sit and Rest" which combines the "Rest" and "Sit on ground" options in one option.
+description= 
+description= Many thanks to @a_Niko for the request to make this possible.
+description= Languages supported:English and (possibly badly translated): Chinese, Spanish, Korean, Portuguese
+tags=Build 41
+visibility=public

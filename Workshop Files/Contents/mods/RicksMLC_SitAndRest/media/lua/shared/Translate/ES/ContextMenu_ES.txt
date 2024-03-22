@@ -1,0 +1,6 @@
+-- Rick's MLC Sit and Rest
+-- Encoding: UTF-8
+
+ContextMenu_ES = {
+	ContextMenu_RicksMLC_SitAndRest = "Siéntate y descansa",
+},

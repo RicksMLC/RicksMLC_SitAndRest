@@ -1,0 +1,6 @@
+-- Rick's MLC Sit And Rest
+-- Chinese Simplified Translation - UTF-8
+
+ContextMenu_CN = {
+	ContextMenu_RicksMLC_SitAndRest = "坐着休息",
+}

@@ -1,0 +1,6 @@
+-- Rick's MLC Template
+-- Encoding: ANSI
+
+ContextMenu_EN {
+	ContextMenu_RicksMLC_SitAndRest = "Sente-se e descanse",
+},
